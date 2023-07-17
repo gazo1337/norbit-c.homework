@@ -1,0 +1,14 @@
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskDomain\bin\Debug\net7.0\TaskDomain.deps.json
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskDomain\bin\Debug\net7.0\TaskDomain.runtimeconfig.json
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskDomain\bin\Debug\net7.0\TaskDomain.dll
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskDomain\bin\Debug\net7.0\TaskDomain.pdb
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskDomain\obj\Debug\net7.0\TaskDomain.csproj.AssemblyReference.cache
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskDomain\obj\Debug\net7.0\TaskDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskDomain\obj\Debug\net7.0\TaskDomain.AssemblyInfoInputs.cache
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskDomain\obj\Debug\net7.0\TaskDomain.AssemblyInfo.cs
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskDomain\obj\Debug\net7.0\TaskDomain.csproj.CoreCompileInputs.cache
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskDomain\obj\Debug\net7.0\TaskDomain.dll
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskDomain\obj\Debug\net7.0\refint\TaskDomain.dll
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskDomain\obj\Debug\net7.0\TaskDomain.pdb
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskDomain\obj\Debug\net7.0\TaskDomain.genruntimeconfig.cache
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskDomain\obj\Debug\net7.0\ref\TaskDomain.dll

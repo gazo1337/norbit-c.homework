@@ -1,0 +1,17 @@
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskInfrastructure\bin\Debug\net7.0\TaskInfrastructure.deps.json
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskInfrastructure\bin\Debug\net7.0\TaskInfrastructure.runtimeconfig.json
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskInfrastructure\bin\Debug\net7.0\TaskInfrastructure.dll
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskInfrastructure\bin\Debug\net7.0\TaskInfrastructure.pdb
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskInfrastructure\bin\Debug\net7.0\TaskDomain.dll
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskInfrastructure\bin\Debug\net7.0\TaskDomain.pdb
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskInfrastructure\obj\Debug\net7.0\TaskInfrastructure.csproj.AssemblyReference.cache
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskInfrastructure\obj\Debug\net7.0\TaskInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskInfrastructure\obj\Debug\net7.0\TaskInfrastructure.AssemblyInfoInputs.cache
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskInfrastructure\obj\Debug\net7.0\TaskInfrastructure.AssemblyInfo.cs
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskInfrastructure\obj\Debug\net7.0\TaskInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskInfrastructure\obj\Debug\net7.0\TaskInfrastructure.csproj.CopyComplete
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskInfrastructure\obj\Debug\net7.0\TaskInfrastructure.dll
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskInfrastructure\obj\Debug\net7.0\refint\TaskInfrastructure.dll
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskInfrastructure\obj\Debug\net7.0\TaskInfrastructure.pdb
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskInfrastructure\obj\Debug\net7.0\TaskInfrastructure.genruntimeconfig.cache
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProject\TaskProject\TaskInfrastructure\obj\Debug\net7.0\ref\TaskInfrastructure.dll
