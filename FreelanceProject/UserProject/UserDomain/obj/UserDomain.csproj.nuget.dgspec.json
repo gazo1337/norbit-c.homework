@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\UserProject\\UserDomain\\UserDomain.csproj": {}
+    "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\UserProject\\UserDomain\\UserDomain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\UserProject\\UserDomain\\UserDomain.csproj": {
+    "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\UserProject\\UserDomain\\UserDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\UserProject\\UserDomain\\UserDomain.csproj",
+        "projectUniqueName": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\UserProject\\UserDomain\\UserDomain.csproj",
         "projectName": "UserDomain",
-        "projectPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\UserProject\\UserDomain\\UserDomain.csproj",
+        "projectPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\UserProject\\UserDomain\\UserDomain.csproj",
         "packagesPath": "C:\\Users\\ender\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\UserProject\\UserDomain\\obj\\",
+        "outputPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\UserProject\\UserDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

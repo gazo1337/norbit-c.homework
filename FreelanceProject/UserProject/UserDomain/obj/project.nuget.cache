@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "04aYM5SGwNjoiQkcgxuWQOWEy6P9349aTQ9k6MzzJzN/LPLvnEbZ9FXuY6L0DNvQVh7Q7+NJ66Ufh0A2dnP+hw==",
+  "dgSpecHash": "OiyqI/ZjUzA4GDkf8v7XU85xBxQO8YjiWx8aGl82f8Bs9ovwLrLGQ4dWkQ/YrGAvviIe7Eh4sHiwivwW4oEj1Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\UserProject\\UserDomain\\UserDomain.csproj",
+  "projectFilePath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\UserProject\\UserDomain\\UserDomain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ender\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ender\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.9\\microsoft.aspnetcore.authentication.jwtbearer.7.0.9.nupkg.sha512",

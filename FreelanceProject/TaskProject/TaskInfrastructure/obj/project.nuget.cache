@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zecgQiFyeZO6t+C/vYFi4yHsYelGrCLEfpDtaOtFtz2wLQDDD4CxhzUqnFjYvuMyTEqRvtcIQzfymmVluXmcfw==",
+  "dgSpecHash": "WrEmTF4o8jEco8xLGXDm/hpDpkXZ+mTahZIUsck7H6SyFL1eECnrN88Mt1wJFMMqoP4q5GYun0EBLh+AUBvEIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskInfrastructure\\TaskInfrastructure.csproj",
+  "projectFilePath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskInfrastructure\\TaskInfrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ender\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ender\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.9\\microsoft.entityframeworkcore.7.0.9.nupkg.sha512",

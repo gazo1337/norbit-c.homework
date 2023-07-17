@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskProject\\TaskProject.csproj": {}
+    "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskProject\\TaskProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskDomain\\TaskDomain.csproj": {
+    "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskDomain\\TaskDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskDomain\\TaskDomain.csproj",
+        "projectUniqueName": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskDomain\\TaskDomain.csproj",
         "projectName": "TaskDomain",
-        "projectPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskDomain\\TaskDomain.csproj",
+        "projectPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskDomain\\TaskDomain.csproj",
         "packagesPath": "C:\\Users\\ender\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskDomain\\obj\\",
+        "outputPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskInfrastructure\\TaskInfrastructure.csproj": {
+    "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskInfrastructure\\TaskInfrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskInfrastructure\\TaskInfrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskInfrastructure\\TaskInfrastructure.csproj",
         "projectName": "TaskInfrastructure",
-        "projectPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskInfrastructure\\TaskInfrastructure.csproj",
+        "projectPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskInfrastructure\\TaskInfrastructure.csproj",
         "packagesPath": "C:\\Users\\ender\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskInfrastructure\\obj\\",
+        "outputPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskInfrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -113,8 +113,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskDomain\\TaskDomain.csproj": {
-                "projectPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskDomain\\TaskDomain.csproj"
+              "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskDomain\\TaskDomain.csproj": {
+                "projectPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskDomain\\TaskDomain.csproj"
               }
             }
           }
@@ -168,14 +168,14 @@
         }
       }
     },
-    "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskProject\\TaskProject.csproj": {
+    "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskProject\\TaskProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskProject\\TaskProject.csproj",
+        "projectUniqueName": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskProject\\TaskProject.csproj",
         "projectName": "TaskProject",
-        "projectPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskProject\\TaskProject.csproj",
+        "projectPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskProject\\TaskProject.csproj",
         "packagesPath": "C:\\Users\\ender\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskProject\\obj\\",
+        "outputPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -198,11 +198,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskDomain\\TaskDomain.csproj": {
-                "projectPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskDomain\\TaskDomain.csproj"
+              "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskDomain\\TaskDomain.csproj": {
+                "projectPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskDomain\\TaskDomain.csproj"
               },
-              "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskInfrastructure\\TaskInfrastructure.csproj": {
-                "projectPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\completed-homework\\FreelanceProject\\TaskProject\\TaskInfrastructure\\TaskInfrastructure.csproj"
+              "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskInfrastructure\\TaskInfrastructure.csproj": {
+                "projectPath": "C:\\Users\\ender\\OneDrive\\Рабочий стол\\учёба\\Норбит\\norbit-c.homework\\FreelanceProject\\TaskProject\\TaskInfrastructure\\TaskInfrastructure.csproj"
               }
             }
           }
