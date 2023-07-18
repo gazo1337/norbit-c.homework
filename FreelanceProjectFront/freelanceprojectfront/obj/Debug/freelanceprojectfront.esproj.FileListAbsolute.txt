@@ -1,2 +1,4 @@
 C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProjectFront\FreelanceProjectFront\obj\Debug\freelanceprojectfront.esproj.SuggestedBindingRedirects.cache
 C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\completed-homework\FreelanceProjectFront\FreelanceProjectFront\obj\Debug\freelanceprojectfront.esproj.CoreCompileInputs.cache
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\norbit-c.homework\FreelanceProjectFront\FreelanceProjectFront\obj\Debug\freelanceprojectfront.esproj.SuggestedBindingRedirects.cache
+C:\Users\ender\OneDrive\Рабочий стол\учёба\Норбит\norbit-c.homework\FreelanceProjectFront\FreelanceProjectFront\obj\Debug\freelanceprojectfront.esproj.CoreCompileInputs.cache

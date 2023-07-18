@@ -1,22 +1,21 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Login from './components/Login';
+import TaskMenu from './components/TasksMenu'
+import UserMenu from './components/UserMenu'
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 function App() {
-  return (
-      <div>
-          <header className="App-header">
-              <p>NFreelance</p>
-          </header>
-          <div className="App-body">
-              <p className="App-body1">Log In</p>
-              <form >
-                  <p><input type="text" name="login" placeholder="you'r login" /></p>
-                  <p><input type="password" name="password" placeholder="you'r password" /></p>
-                  <p><button className="App-button">LogIn</button></p>
-              </form>
-          </div>
-    </div>
+    return (
+        <BrowserRouter>
+            <div className="App">
+                <Routes>
+                    <Route path="/" element={<Login />} />
+                    <Route path="/tasks" element={<TaskMenu/> }/>
+                </Routes>
+            </div>
+        </BrowserRouter>
   );
 }
 
