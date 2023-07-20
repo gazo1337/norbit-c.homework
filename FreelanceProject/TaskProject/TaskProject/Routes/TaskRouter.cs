@@ -10,11 +10,11 @@ namespace TaskProject.Routes
             // Производим группировку логики.
             var taskGroup = application.MapGroup("/api/tasks");
 
-            taskGroup.MapGet(pattern: "/", handler: GetAllTasks);
+            taskGroup.MapGet(pattern: "/all", handler: GetAllTasks);
             taskGroup.MapGet(pattern: "/{id:long}", handler: GetTaskById);
-            taskGroup.MapPost(pattern: "/", handler: CreateTask);
-            taskGroup.MapPut(pattern: "/", handler: UpdateTask);
-            taskGroup.MapDelete(pattern: "/{id:long}", handler: DeleteTask);
+            taskGroup.MapPost(pattern: "/create", handler: CreateTask);
+            taskGroup.MapPut(pattern: "/update", handler: UpdateTask);
+            taskGroup.MapDelete(pattern: "/delete/{id:long}", handler: DeleteTask);
 
             return application;
         }

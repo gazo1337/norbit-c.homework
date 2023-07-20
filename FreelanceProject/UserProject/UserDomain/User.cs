@@ -12,8 +12,6 @@
 
         public string Email { get; set; } = "";
 
-        public string[] ComplTasks { get; set; }
-
         public int Rank { get; set; } = 0;
 
         public int Level { get; set; } = 0;

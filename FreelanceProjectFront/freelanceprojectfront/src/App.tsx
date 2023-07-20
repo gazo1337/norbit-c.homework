@@ -12,7 +12,8 @@ function App() {
             <div className="App">
                 <Routes>
                     <Route path="/" element={<Login />} />
-                    <Route path="/tasks" element={<TaskMenu/> }/>
+                    <Route path="/tasks" element={<TaskMenu />} />
+                    <Route path="/user" element={<UserMenu/> }/>
                 </Routes>
             </div>
         </BrowserRouter>

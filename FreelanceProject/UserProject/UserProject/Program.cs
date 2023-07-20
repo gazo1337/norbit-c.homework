@@ -65,10 +65,10 @@ app.UseCors(myAllowSpecificOrigins);
 var usersGroup = app.MapGroup("user/");
 
 //Вход в систему
-usersGroup.MapPost("/login", (UserContext db, string login, string password) =>
+usersGroup.MapPost("/login", (UserContext db, User user) =>
 {
     var users = db.Users.ToList();
-    var logUser = users.FirstOrDefault(p => p.Login == login && p.Password == password);
+    var logUser = users.FirstOrDefault(p => p.Login == user.Login && p.Password == user.Password);
     if (logUser is null)
         return Results.Unauthorized();
     var claims = new List<Claim> { new Claim(ClaimTypes.Name, logUser.Login) };
@@ -87,6 +87,10 @@ usersGroup.MapPost("/login", (UserContext db, string login, string password) =>
     };
 
     return Results.Json(response);
+});
+usersGroup.MapGet("/check", [Authorize] () =>
+{
+    return Results.Ok();
 });
 //Вывод всех пользователей
 usersGroup.MapGet("/all", [Authorize] (UserContext db) =>

@@ -12,7 +12,6 @@
     <BuildOutputFolder>$(MSBuildProjectDirectory)\build</BuildOutputFolder>
   </PropertyGroup>
   <ItemGroup>
-    <Folder Include="src\store\reducers\" />
     <Folder Include="src\hooks\" />
     <Folder Include="src\models\" />
   </ItemGroup>
